@@ -1,7 +1,9 @@
+*Run the .jar file to experience the game without needing to use the Greenfoot IDE*
+
 1.
+Yameen Abba
 Stanley Chan
 Kelvin Mo
-Yameen Abba
 Steven Lin
 2.
 In our project we used arraylists, hashmaps, and queues. These data structures are mostly found in the following classes:
